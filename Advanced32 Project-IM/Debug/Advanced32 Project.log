@@ -1,0 +1,13 @@
+﻿Build started 5/2/2018 12:17:58 PM.
+     1>Project "C:\Users\zh311478\Desktop\GitC++\Chapter-11\Advanced32 Project-IM\Advanced32 Project.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Advanced32.cpp
+         Advanced32.cpp
+     1>c:\users\zh311478\desktop\gitc++\chapter-11\advanced32 project-im\advanced32.cpp(18): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\zh311478\desktop\gitc++\chapter-11\advanced32 project-im\advanced32.cpp(31): error C2086: 'int i' : redefinition
+                 c:\users\zh311478\desktop\gitc++\chapter-11\advanced32 project-im\advanced32.cpp(31) : see declaration of 'i'
+     1>Done Building Project "C:\Users\zh311478\Desktop\GitC++\Chapter-11\Advanced32 Project-IM\Advanced32 Project.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.27
